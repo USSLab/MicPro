@@ -23,22 +23,18 @@ To strike a balance between anonymity and usability, we use a multi-objective ge
 In our work, we tried several commonly-used algorithms and compared their performance, and hereby we show their performance.
 + MOGA (Multi-objective Genetic Algorithm)
 + MOEAD (Multi-objective Evolutionary Algorithm based on Decomposition)
-<img src="figure/moga5.png" alt="MOGA" width=300> <img src="figure/moead2.png" alt="MOEAD" width=300> 
+<img src="figure/moga5.png" alt="MOGA" width=350> <img src="figure/moead2.png" alt="MOEAD" width=350> 
 
 + MOPSO (Multi-objective Particle Swarm Optimization)
 + MOBO (Multi-objective Bayes Optimization)
-<img src="figure/mopso1.png" alt="MOPSO" width=300> <img src="figure/mobo1.png" alt="MOBO" width=300> 
+<img src="figure/mopso1.png" alt="MOPSO" width=350> <img src="figure/mobo1.png" alt="MOBO" width=350> 
 # Code
 You can find our code implementation at [README](code/README.md).
 
 # Demo
 We show how to record and anonymize audio with our MicPro microphone (Respeaker Core V2) [here](https://youtu.be/qKLYvuvBUPg).
 We also provide the examples of original audio and anonymized audio (MicPro, McAdam, and Voicemask) [here](demo\audio).
-## Group 1
-Original 
-<audio id="audio" controls="" preload="none">
-      <source id="wav" src="demo\audio\group1\4446-2273-0021.wav">
-</audio>
+
 
 # Paper
 You can find our paper [here](MicPro.pdf).
