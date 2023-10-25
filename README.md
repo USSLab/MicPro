@@ -46,9 +46,9 @@ You can find our paper [here](MicPro.pdf).
 
 
 # Powered by
-## Ubiquitous System Security Laboratory (USSLab)\
-[![](figure\usslab_logo.png)](https://usslab.org)
+## Ubiquitous System Security Laboratory (USSLab)
+<a href="http:/usslab.org">![USSLab logo](./figure/usslab_logo.png)</a>
 
 
 ## Zhejiang University
-[![](figure\zju_logo.png)](https://www.zju.edu.cn/english)
+<a href="http://www.zju.edu.cn/english/">![ZJU logo](./figure/zju_logo.png)</a>
