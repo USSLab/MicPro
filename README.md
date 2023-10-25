@@ -21,13 +21,18 @@ To strike a balance between anonymity and usability, we use a multi-objective ge
 
 ## Optimization Results
 In our work, we tried several commonly-used algorithms and compared their performance, and hereby we show their performance.
+
 + MOGA (Multi-objective Genetic Algorithm)
 + MOEAD (Multi-objective Evolutionary Algorithm based on Decomposition)
-<img src="figure/moga5.png" alt="MOGA" width=350> <img src="figure/moead2.png" alt="MOEAD" width=350> 
+  
+<img src="figure/moga5.png" alt="MOGA" width=300> <img src="figure/moead2.png" alt="MOEAD" width=300> 
+
 
 + MOPSO (Multi-objective Particle Swarm Optimization)
 + MOBO (Multi-objective Bayes Optimization)
-<img src="figure/mopso1.png" alt="MOPSO" width=350> <img src="figure/mobo1.png" alt="MOBO" width=350> 
+
+<img src="figure/mopso1.png" alt="MOPSO" width=300><img src="figure/mobo1.png" alt="MOBO" width=300> 
+
 # Code
 You can find our code implementation at [README](code/README.md).
 
