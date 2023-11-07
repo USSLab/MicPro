@@ -213,7 +213,6 @@ ffmpeg -y -ar 8000 -ac 1 -f s16le -i "$wave_path".pcm -ar 16000 -ac 1 -f s16le "
 ffmpeg -f s16le -v 8 -y -ar 16000 -ac 1 -i "$wave_path_16k".pcm "$wave_path_16k".wav
 ```
 
-**Note that we have provided the modified G.729 source code in our [file](code\g729).**
 
 
 ## Run NSGA algorithm
